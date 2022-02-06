@@ -5,4 +5,4 @@ The AIMS application is designed to help agency programs and staff conduct the d
 
 ## Current Resources
 
-- (Release Notes)[https://kdainfotech.atlassian.net/wiki/spaces/KIP/pages/763363329/AIMS+Release+Notes]
+- [Release Notes](https://kdainfotech.atlassian.net/wiki/spaces/KIP/pages/763363329/AIMS+Release+Notes)

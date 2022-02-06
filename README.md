@@ -1,4 +1,4 @@
-# Welcome to Agriculture Information Management Service (AIMS) Document Site
+## Agriculture Information Management Service (AIMS) Document Site
 
 ## Overview
 The AIMS application is designed to help agency programs and staff conduct the daily business of the Kansas Department of Agriculture.

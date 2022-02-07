@@ -46,12 +46,13 @@ The AIMS Invite Module’s responsibility is to facilitate the enrollment proces
 - Determine which invite channel is being used.
 - Define post enrollment actions.
 - Initiate the creation of the invite.
+- ** Module specific methods that are called during post enrollment actions. (Calls to these methods will always include KDA Portal UserGuid first and AimsRequest last.) **
 
 #### AIMS Invite Module Responsibilities
 - Generate the unique web slug.
 - Send the invite email.
 - Ensure proper access to the invite enrollment action/page.
 - Capture client information upon successful enrollment.
-- Execute post enrollment actions.
+- Execute post enrollment actions. ** (Calls to these methods will always include KDA Portal UserGuid first and AimsRequest last.) **
 - Redirect user to pre-defined URI.
 

@@ -21,12 +21,12 @@ The AIMS Invite Module should be able to do the following:
   - Ip Address of Access
   - Client Agent
 - The invite should be flag in such a way that the users cannot execute the scenarios again but can be redirected to the pre-defined URI.
-- 
+
 ## Specifications
 The AIMS Invite Module consists of two (2) data domains/concepts: “Invite Channels” and “Invites”.
 
 ### Invite Channels
-Invite Channels are the different types of possible invites and can help predefine certain attributes to the invite such as email template, reflection actions, etc. etc.   (See InspectionType in the Inspection module for a similar concept.)
+Invite Channels are the different types of possible invites and can help predefine certain attributes to the invite such as email template, reflection actions, etc. etc.   (See [InspectionType](https://dev.azure.com/ksag/AIMS%20System/_git/kda-aims-aspnet-mvc?path=/KdaAims.Core/Module/Inspections/InspectionType.cs) in the Inspection module for a similar concept.)
 
 ### Invites
 Invites are the actual unique records generated for each desired invite.  It should include parameters like:

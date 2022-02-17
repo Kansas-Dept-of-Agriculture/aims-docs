@@ -1,21 +1,18 @@
 # KDA Accounts
 
 ## What is a KDA account?
----
 
 A KDA account is your access pass to KDA Portal and other online resources provided by the Kansas Department of Agriculture.  When you sign in with your KDA account, you have access to a number of services provided in KDA Portal.  Your KDA account allows you to enroll or accept invitations to several of the Kansas Department of Agriculture's programs. **A KDA account is free and available to ANYONE.**
 
 To sign up for a KDA account and log in to KDA Portal click this link: https://portal.kda.ks.gov/account/signup
 
 ## What is KDA Portal?
----
 
 KDA Portal is the Kansas Department of Agriculture's online customer portal, it allows agency customer's to manage their license information, enroll in agency programs, and renew various business licenses.  A KDA account is required to access KDA Portal, and you may need to contact KDA to be invited to manage your records.
 
 https://portal.kda.ks.gov
 
 ## How to create a KDA account
----
 
 This section provides help with setting up a new KDA account, if you already have a KDA account and need to recover your password see "How to reset your KDA account password".
 
@@ -32,7 +29,6 @@ This section provides help with setting up a new KDA account, if you already hav
 11. Your KDA account has been created, after a few moments you will be redirect to: https://portal.kda.ks.gov
 
 ## How to login using your KDA account
----
 
 This section provides help with logging into KDA Portal with your KDA account.  If you do not have a KDA account see "How to create a KDA account" or if you need help recovering your KDA account password see "How to reset your KDA account password" below.
 
@@ -46,7 +42,6 @@ If you cannot remember the password you used to setup this account, click the "F
 If you do not have a KDA account, click the "Sign up now" link and see the "How to create a KDA account" section above.
 
 ## How to reset your KDA account password
----
 
 This section provides help with resetting the password for your KDA account.  If you do not have a KDA account see "How to create a KDA account" or if you want to try and login with your KDA account see the "How to login using your KDA account".
 

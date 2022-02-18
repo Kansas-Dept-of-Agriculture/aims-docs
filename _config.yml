@@ -33,6 +33,9 @@ github_username:  jekyll
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "https://pkdaaimsstorage.blob.core.windows.net/common/media/images/220px-KSDofAg_logo.png"
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true

@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: KDA AIMS Docs
 ---
+
+# KDA AIMS Docs
+
+## Overview
+The AIMS application is designed to help agency programs and staff conduct the daily business of the Kansas Department of Agriculture.

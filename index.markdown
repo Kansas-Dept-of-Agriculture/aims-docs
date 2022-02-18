@@ -1,6 +1,7 @@
 ---
 layout: home
-title: KDA AIMS Docs
+title: Home
+nav_order: 1
 ---
 
 # KDA AIMS Docs

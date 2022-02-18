@@ -1,4 +1,9 @@
-﻿# AIMS Invite Module
+﻿---
+layout: default
+nav_exclude: true
+---
+
+# AIMS Invite Module
 
 ## Purpose
 The AIMS invite module’s purpose is to provide a way to invite existing B2C users and non-B2C users to enroll in various other modules and sub-modules in AIMS.  The following scenario are common, and a typical invite may include one or more:

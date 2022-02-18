@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # KDA Accounts
 
 ## What is a KDA account?

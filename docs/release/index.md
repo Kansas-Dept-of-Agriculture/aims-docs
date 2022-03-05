@@ -18,7 +18,6 @@ Release notes for Agriculture Information Management System (AIMS) are update at
 
 | Version | Release Date | Release Name | 
 |:------------- |:-------------|:-------------|
-| ~20220218.1 | February 22nd, 2022 | Baliset |
 | ~20220304.1 | March 8th, 2022 | Chani |
 | ~20220318.1 | March 22nd, 2022 | Duncan |
 | ~20220401.1 | April 5th, 2022 | Fenring |

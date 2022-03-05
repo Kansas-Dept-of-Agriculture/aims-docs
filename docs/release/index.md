@@ -12,7 +12,7 @@ Release notes for Agriculture Information Management System (AIMS) are update at
 
 | Version | Release Date | Release Name | 
 |:------------- |:-------------|:-------------|
-|[20220204.3 (Arrakis)](20220204.3 - Arrakis)| February 8th, 2022| Arrakis |
+|[20220218.3 - Baliset](20220218.3 - Baliset)|February 8th, 2022|Baliset|
 
 ## Future Releases
 
@@ -30,6 +30,7 @@ Release notes for Agriculture Information Management System (AIMS) are update at
 
 | Version | Release Date | Release Name | 
 |:------------- |:-------------|:-------------|
+|[20220204.3 - Arrakis](20220204.3 - Arrakis)| February 8th, 2022 | Arrakis |
 |[20220109.1-legolas](https://kdainfotech.atlassian.net/wiki/spaces/KIP/pages/2270724097)|January 9th, 2022|Legolas|
 |[20220104.2-isildur.b](https://kdainfotech.atlassian.net/wiki/spaces/KIP/pages/2268168193)|December 12th, 2021 |Isildur (Part B)|
 |[20211205.1-isildur.a](https://kdainfotech.atlassian.net/wiki/spaces/KIP/pages/2267250694)|December 5th, 2021|Isildur (Part A)|

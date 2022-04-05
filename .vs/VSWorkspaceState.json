@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\modules",
-    "\\modules\\aims-invite",
-    "\\release"
+    "\\docs",
+    "\\docs\\release"
   ],
-  "SelectedNode": "\\release\\20220204.3 - Arrakis.md",
+  "SelectedNode": "\\docs\\release\\20220404.1 - Fenring.md",
   "PreviewInSolutionExplorer": false
 }

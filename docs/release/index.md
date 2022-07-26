@@ -12,14 +12,13 @@ Release notes for Agriculture Information Management System (AIMS) are update at
 
 | Version | Release Date | Release Name | 
 |:------------- |:-------------|:-------------|
-| [20220711.2](20220711.2%20-%20Melange) | July 12th, 2022 | Melange |
+| [20220726.1](20220726.1%20-%20Mentat) | July 26th, 2022 | Mentat |
 
 
 ## Future Releases
 
 | Version | Release Date | Release Name | 
 |:------------- |:-------------|:-------------|
-| ~20220722.1 | July 26th, 2022 | Mentat |
 | ~20220805.1 | August 9th, 2022 | Naib |
 | ~20220819.1 | August 23th, 2022 | Ornithopter |
 | ~20220902.1 | September 6th, 2022 | Paul |
@@ -28,6 +27,7 @@ Release notes for Agriculture Information Management System (AIMS) are update at
 
 | Version | Release Date | Release Name | 
 |:------------- |:-------------|:-------------|
+| [20220711.2](20220711.2%20-%20Melange) | July 12th, 2022 | Melange |
 | [20220624.1](20220624.1%20-%20Leto) | June 28th, 2022 | Leto |
 |[20220610.1](20220610.1%20-%20Kynes) | June 13th, 2022 | Kynes |
 |[20220527.6 - Jamis](20220527.6%20-%20Jamis)|May 31st, 2022|Jamis|
